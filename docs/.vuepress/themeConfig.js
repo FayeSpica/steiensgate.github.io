@@ -17,6 +17,7 @@ module.exports = {
     owner: 'SteiensGate',
     admin: ['SteiensGate'],
     perPage: 5,
+    proxy: '/github/login/oauth/access_token', // 新添加的
     distractionFreeMode: false // Facebook-like distraction free mode
   },
   locales: {
