@@ -1,7 +1,7 @@
 const helper = require('./../helper/')
 
 module.exports = {
-  repo: 'SteiensGate/vuepress-web-app',
+  repo: 'SteiensGate/steiensgate.github.io',
   editLinks: false,
   docsDir: './dist',
   algolia: {
@@ -13,7 +13,7 @@ module.exports = {
   comment: {
     clientID: '404a8bb0a2635bb8351c',
     clientSecret: 'b2360e85d6ad8f69bd64ced134782d7a16b5af88',
-    repo: 'vuepress-web-app',
+    repo: 'steiensgate.github.io',
     owner: 'SteiensGate',
     admin: ['SteiensGate'],
     perPage: 5,
