@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "13373ef422d71ceba9610424d9dbe5a0"
+    "revision": "c1ab7dbf3284c7c6e578dbfa9739f70c"
   },
   {
     "url": "assets/css/0.styles.edfd9fb6.css",
@@ -204,8 +204,8 @@ self.__precacheManifest = [
     "revision": "cbddcc97d3807302ad269ad2f09aaf26"
   },
   {
-    "url": "assets/js/app.e05ba732.js",
-    "revision": "2aeb5a5bc6778122ef907aa8237f6d26"
+    "url": "assets/js/app.2d969032.js",
+    "revision": "7ff426b3cc1e8b80426470703e34f652"
   },
   {
     "url": "assets/js/vendors~docsearch.f35af923.js",
@@ -213,31 +213,31 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "70622d2180cf400b6e7d34c6cf924474"
+    "revision": "a3677ed9c922d83ce5191c6ebbb55342"
   },
   {
     "url": "blog/jianshu-blog.html",
-    "revision": "3cb60a164af7ee490e2b492352bf6acf"
+    "revision": "1f482afcd8bf779cc3a595bc90336455"
   },
   {
     "url": "data-structure/index.html",
-    "revision": "ef97e2143ca13aea7851d2e6fc89847c"
+    "revision": "3a447463a94405474ba29309b1f1588c"
   },
   {
     "url": "design-pattern/index.html",
-    "revision": "e880e2e8da2a0084c75a2ac101d36d17"
+    "revision": "4f941c7e5bfeafa95d3b40f3f084323a"
   },
   {
     "url": "en/application/index.html",
-    "revision": "3b120899dcc93a43a9c984f286ff0e0a"
+    "revision": "c43c3a172c141f3301ad9385cb95f542"
   },
   {
     "url": "en/index.html",
-    "revision": "af29508542ba3f819ac51992d11f58b2"
+    "revision": "071f4c6d39a623a59a851b984b9ca0f8"
   },
   {
     "url": "go/index.html",
-    "revision": "1bf0a44550b8ea9c0085397976fe68ba"
+    "revision": "903437ed438d16cdac703fcb61405094"
   },
   {
     "url": "google21c733509a589aaa.html",
@@ -297,27 +297,27 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "59d353b5d46df2bd713a9c45c1c21685"
+    "revision": "03e7e8d7bb84ed6ad7ccff088ccc7552"
   },
   {
     "url": "java/index.html",
-    "revision": "559ed8ddd21b99d168ab01e15f42739d"
+    "revision": "1997ea4b79679c750891983d46f394ce"
   },
   {
     "url": "java/java-collection.html",
-    "revision": "d18beb0a4d1b6f43cecb0aa1f53bfa73"
+    "revision": "444f1a8c7127961dd880eb66e8b2e17e"
   },
   {
     "url": "jvm/index.html",
-    "revision": "ace72ae211fb6366640f0d43d6767356"
+    "revision": "a9b275997ada30b0af85e9975b0877c4"
   },
   {
     "url": "leetcode/index.html",
-    "revision": "530ec06d20c9bb50be0aebd78ac7f77d"
+    "revision": "94b19a8c51f7be1a9e01d23c8f7213be"
   },
   {
     "url": "localization/index.html",
-    "revision": "fe5cf5273c9e8119bb021c521c399907"
+    "revision": "5ec78b76a985500c60d239f63ed7fe43"
   },
   {
     "url": "logo.png",
@@ -329,63 +329,63 @@ self.__precacheManifest = [
   },
   {
     "url": "micro-service/index.html",
-    "revision": "cd827a6b694ab25388d23b9e05419e48"
+    "revision": "dfe551c6bc2143f06055dd51504bfdce"
   },
   {
     "url": "network/index.html",
-    "revision": "e3548eed6be4f70bf1f342bd318871c6"
+    "revision": "c7b93712fdd718c5b63713568299c928"
   },
   {
     "url": "zh/application/index.html",
-    "revision": "a7cdf0dfe6082425af2bf481a727dec6"
+    "revision": "50fb33b04804e3a4fae6841211e3ea14"
   },
   {
     "url": "zh/article/awesome-quickapp.html",
-    "revision": "75c7260013aa169a76dd791acb4b405b"
+    "revision": "fcc71b15fba5c66d29384a55edaddcb2"
   },
   {
     "url": "zh/article/beautify-vue-by-eslint-and-prettier.html",
-    "revision": "a6262156cccb88133a28efd2f3f73176"
+    "revision": "a945e0ab48960aadb5802184639ae93d"
   },
   {
     "url": "zh/article/develop-quick-app-experience-notes.html",
-    "revision": "cb800aa5ceb0ede9105673f7d7204c5b"
+    "revision": "8075341c2f251b5caaab9671ef73a391"
   },
   {
     "url": "zh/article/how-to-elegantly-handle-quickapp-request.html",
-    "revision": "a3006937e70c44065266bcdb5037b80f"
+    "revision": "a5f6f8bddb3b57c1209ca2453117e862"
   },
   {
     "url": "zh/article/index.html",
-    "revision": "098fba7b9f91c3a0a3e2aa9be6ef16dc"
+    "revision": "3df29234621c58a406c44d25ff9e3246"
   },
   {
     "url": "zh/article/quickapp-boilerplate-template.html",
-    "revision": "77ebe2a3a813f28172bc0114277d967b"
+    "revision": "11432bd746ad4da33d9a26a9d7e24bdc"
   },
   {
     "url": "zh/article/talk-about-my-blogs.html",
-    "revision": "0546591ba09ec98219515269284e48ee"
+    "revision": "f239b1a7dfd4bba2215adeb2b2b08340"
   },
   {
     "url": "zh/article/talk-about-nice-links.html",
-    "revision": "32a75ffbbeaf4c551fd65126705e8eb9"
+    "revision": "1c5f79e89b23b10e5834bd78dec14697"
   },
   {
     "url": "zh/article/top-100-front-end-awesome-awesome-list.html",
-    "revision": "5b760e1219f5123257ab9eec51248e54"
+    "revision": "0bf1106f353f7adb0cd3cb5780da68b3"
   },
   {
     "url": "zh/article/vue-webpack-boilerplate-template.html",
-    "revision": "596de0ca6eda97de35997aa7ba054931"
+    "revision": "486c35479a779bc544b13e968bd1df34"
   },
   {
     "url": "zh/index.html",
-    "revision": "c633fc21797f978c1792a798ddafa0ad"
+    "revision": "1a21bae37280487e675b55524ebe0b12"
   },
   {
     "url": "zh/recruit/index.html",
-    "revision": "9d5e9da5c756c7a51c1726fea72bde31"
+    "revision": "1a3347a37495ede7505f38b3e1fe4b8c"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
