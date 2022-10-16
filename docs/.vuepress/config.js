@@ -17,6 +17,16 @@ module.exports = {
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
   ],
   ga: 'UA-134712641-1',
+  head: [
+    [
+      'script',
+      {
+        'data-ad-client': 'ca-pub-8072981673078935',
+        async: true,
+        src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'
+      }
+    ]
+  ],
   serviceWorker: true,
   updatePopup: true,
   locales: {
