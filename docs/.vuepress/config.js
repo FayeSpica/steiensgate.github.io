@@ -32,23 +32,12 @@ module.exports = {
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: '廖维明的Java博客',
+      title: 'FayeS的博客',
       description: 'Time waits for no one.',
       serviceWorker: {
         updatePopup: {
           message: '🎉 发现新内容可用 ✏️',
           buttonText: '刷新'
-        }
-      }
-    },
-    '/en/': {
-      lang: 'en-US',
-      title: 'LOVE JADE HOME',
-      description: 'Wherever you go， whatever you do， I will be right here waiting for you.',
-      serviceWorker: {
-        updatePopup: {
-          message: '🎉 New Content Is Available. ✏️',
-          buttonText: 'Refresh'
         }
       }
     }

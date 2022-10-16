@@ -32,7 +32,19 @@ module.exports = {
           link: '/blog/'
         },
         {
-          text: 'Java基础',
+          text: 'Go',
+          link: '/go/'
+        },
+        {
+          text: '大数据',
+          link: '/bigdata/'
+        },
+        {
+          text: '汉化',
+          link: '/localization/'
+        },
+        {
+          text: 'Java',
           link: '/java/'
         },
         {
@@ -42,14 +54,6 @@ module.exports = {
         {
           text: '微服务',
           link: '/micro-service/'
-        },
-        {
-          text: 'Go',
-          link: '/go/'
-        },
-        {
-          text: '汉化',
-          link: '/localization/'
         },
         {
           text: '更多',
@@ -70,18 +74,6 @@ module.exports = {
         '/micro-service/': helper.utils.genSidebarConfig('', './docs/micro-service/', false),
         '/network/': helper.utils.genSidebarConfig('', './docs/network/', false)
       }
-    },
-    '/en/': {
-      label: 'English',
-      selectText: 'Languages',
-      editLinkText: 'Edit this page on GitHub',
-      lastUpdated: 'Last Updated',
-      nav: [
-        {
-          text: 'Application',
-          link: '/en/application/'
-        }
-      ]
     }
   }
 }
