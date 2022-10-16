@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "c1ab7dbf3284c7c6e578dbfa9739f70c"
+    "revision": "e1df0cb345333423cb1fe6e0729d9879"
   },
   {
     "url": "assets/css/0.styles.edfd9fb6.css",
@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "revision": "807493d6f0bba4364c9558ceefa13a5e"
   },
   {
-    "url": "assets/js/16.803856f5.js",
-    "revision": "c38e016ade96e4e96fd2b156bc6162ef"
+    "url": "assets/js/16.5e3d10a6.js",
+    "revision": "11b54ee1895573472ac0293012a27dbc"
   },
   {
     "url": "assets/js/17.cf8cdcb5.js",
@@ -96,8 +96,8 @@ self.__precacheManifest = [
     "revision": "e7cbf9fd628d6527c54ce75ceaf70f23"
   },
   {
-    "url": "assets/js/22.096e674f.js",
-    "revision": "287fbecd9f3e7128f2b15d658f8b5050"
+    "url": "assets/js/22.6aef4fb3.js",
+    "revision": "a008cd5109b3092bc73cb96421efb621"
   },
   {
     "url": "assets/js/23.12c88c1e.js",
@@ -116,8 +116,8 @@ self.__precacheManifest = [
     "revision": "9972a6663e0108cc519804e8c2f3d503"
   },
   {
-    "url": "assets/js/27.170ca613.js",
-    "revision": "00540caf6a39a32064c83064c01b1912"
+    "url": "assets/js/27.64c3513c.js",
+    "revision": "f59165147c1ec55b759e273b6681a479"
   },
   {
     "url": "assets/js/28.fb8e6e60.js",
@@ -204,8 +204,8 @@ self.__precacheManifest = [
     "revision": "cbddcc97d3807302ad269ad2f09aaf26"
   },
   {
-    "url": "assets/js/app.2d969032.js",
-    "revision": "7ff426b3cc1e8b80426470703e34f652"
+    "url": "assets/js/app.b2e09de0.js",
+    "revision": "f333c0050ca67b42ff3b60a9722b612a"
   },
   {
     "url": "assets/js/vendors~docsearch.f35af923.js",
@@ -213,31 +213,31 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "a3677ed9c922d83ce5191c6ebbb55342"
+    "revision": "1cd397c6fc767d1ef9a5ad4e242a0d59"
   },
   {
     "url": "blog/jianshu-blog.html",
-    "revision": "1f482afcd8bf779cc3a595bc90336455"
+    "revision": "ee025f7548b848a5c75dac0cb00e75d8"
   },
   {
     "url": "data-structure/index.html",
-    "revision": "3a447463a94405474ba29309b1f1588c"
+    "revision": "7d5fa35481066bc2450ae00ac28a9378"
   },
   {
     "url": "design-pattern/index.html",
-    "revision": "4f941c7e5bfeafa95d3b40f3f084323a"
+    "revision": "cae0eadb672ad27baef5eb0c46c16a01"
   },
   {
     "url": "en/application/index.html",
-    "revision": "c43c3a172c141f3301ad9385cb95f542"
+    "revision": "b8ed6b4ce50de158fd0ea84b3981964a"
   },
   {
     "url": "en/index.html",
-    "revision": "071f4c6d39a623a59a851b984b9ca0f8"
+    "revision": "16cadaa90e4ce2172f8687ad1ae383d4"
   },
   {
     "url": "go/index.html",
-    "revision": "903437ed438d16cdac703fcb61405094"
+    "revision": "80dbbcfb5192c84ff6f4cb08cd4a62b8"
   },
   {
     "url": "google21c733509a589aaa.html",
@@ -297,27 +297,27 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "03e7e8d7bb84ed6ad7ccff088ccc7552"
+    "revision": "0901ec6df0d08bceda067891c7f9d3de"
   },
   {
     "url": "java/index.html",
-    "revision": "1997ea4b79679c750891983d46f394ce"
+    "revision": "47cfc8d11dff81d87b23a3ba03b8c369"
   },
   {
     "url": "java/java-collection.html",
-    "revision": "444f1a8c7127961dd880eb66e8b2e17e"
+    "revision": "ae7f9a61d16410c9da2aa890d6011332"
   },
   {
     "url": "jvm/index.html",
-    "revision": "a9b275997ada30b0af85e9975b0877c4"
+    "revision": "9c716c8d3a8de8b73a2b5fce3b27a4fe"
   },
   {
     "url": "leetcode/index.html",
-    "revision": "94b19a8c51f7be1a9e01d23c8f7213be"
+    "revision": "1ea9dae649bbdc96828f56913b38e68a"
   },
   {
     "url": "localization/index.html",
-    "revision": "5ec78b76a985500c60d239f63ed7fe43"
+    "revision": "9526cc22e445d0bb718693c7be613e85"
   },
   {
     "url": "logo.png",
@@ -329,63 +329,63 @@ self.__precacheManifest = [
   },
   {
     "url": "micro-service/index.html",
-    "revision": "dfe551c6bc2143f06055dd51504bfdce"
+    "revision": "66814c9da666e5d31f6b54486db8022c"
   },
   {
     "url": "network/index.html",
-    "revision": "c7b93712fdd718c5b63713568299c928"
+    "revision": "97e95d6075cb3f6e20a667147330177d"
   },
   {
     "url": "zh/application/index.html",
-    "revision": "50fb33b04804e3a4fae6841211e3ea14"
+    "revision": "d4fec0b9ad9be8fe3dd8de26718dc17b"
   },
   {
     "url": "zh/article/awesome-quickapp.html",
-    "revision": "fcc71b15fba5c66d29384a55edaddcb2"
+    "revision": "decfeaa0cf4a338bb2dbea8c733eccdf"
   },
   {
     "url": "zh/article/beautify-vue-by-eslint-and-prettier.html",
-    "revision": "a945e0ab48960aadb5802184639ae93d"
+    "revision": "2bd1f401df9e09cea929d38bf5353950"
   },
   {
     "url": "zh/article/develop-quick-app-experience-notes.html",
-    "revision": "8075341c2f251b5caaab9671ef73a391"
+    "revision": "2d516a796ed17103f8b1aca659a6bc4a"
   },
   {
     "url": "zh/article/how-to-elegantly-handle-quickapp-request.html",
-    "revision": "a5f6f8bddb3b57c1209ca2453117e862"
+    "revision": "79daea94124b693be7515f426e9570fb"
   },
   {
     "url": "zh/article/index.html",
-    "revision": "3df29234621c58a406c44d25ff9e3246"
+    "revision": "c044e24106031bd5686dee91e6d30450"
   },
   {
     "url": "zh/article/quickapp-boilerplate-template.html",
-    "revision": "11432bd746ad4da33d9a26a9d7e24bdc"
+    "revision": "f3d668443b1db1168b1d2f33f6ca6ac8"
   },
   {
     "url": "zh/article/talk-about-my-blogs.html",
-    "revision": "f239b1a7dfd4bba2215adeb2b2b08340"
+    "revision": "93a84515d9bc97d7e5710989a97e2fa6"
   },
   {
     "url": "zh/article/talk-about-nice-links.html",
-    "revision": "1c5f79e89b23b10e5834bd78dec14697"
+    "revision": "5ad5fc5b9114f3a9633fa2b132ec54ce"
   },
   {
     "url": "zh/article/top-100-front-end-awesome-awesome-list.html",
-    "revision": "0bf1106f353f7adb0cd3cb5780da68b3"
+    "revision": "82cd104321fe5689ddb71e9952ec615a"
   },
   {
     "url": "zh/article/vue-webpack-boilerplate-template.html",
-    "revision": "486c35479a779bc544b13e968bd1df34"
+    "revision": "94225a12e8a2d85ce52ce3d78c805514"
   },
   {
     "url": "zh/index.html",
-    "revision": "1a21bae37280487e675b55524ebe0b12"
+    "revision": "12855ecedb3e6a9a520d249e64f23014"
   },
   {
     "url": "zh/recruit/index.html",
-    "revision": "1a3347a37495ede7505f38b3e1fe4b8c"
+    "revision": "87b10429e1380dce8dbd48cc9d15bc6b"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
