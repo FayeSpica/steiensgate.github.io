@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{353:function(n,t,s){"use strict";s.r(t);var c=s(1),a=Object(c.a)({},(function(){var n=this._self._c;return n("div",{staticClass:"content"},[n("Contact")],1)}),[],!1,null,null,null);t.default=a.exports}}]);
